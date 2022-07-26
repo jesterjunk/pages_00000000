@@ -132,7 +132,7 @@ Alaska, Alabama, Arizona, Arkansas, California, Florida, Georgia, Louisiana, Mar
 
 ### States in Growing Zone 9
 
-Alabama, Arizona, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, Nevada, New Mexico, Oregon, South Carolina, TexasUtah, Washington
+Alabama, Arizona, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, Nevada, New Mexico, Oregon, South Carolina, Texas, Utah, Washington
 
 ### States in Growing Zone 10
 

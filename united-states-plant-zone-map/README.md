@@ -31,9 +31,9 @@
 <table>
 <tbody>
 <tr>
-<td><strong>Zone</strong></td>
-<td><strong>Last Frost Date</strong></td>
-<td><strong>First Frost Date</strong></td>
+<th><strong>Zone</strong></th>
+<th><strong>Last Frost Date</strong></th>
+<th><strong>First Frost Date</strong></th>
 </tr>
 <tr></tr>
 <tr>

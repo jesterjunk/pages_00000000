@@ -1,6 +1,6 @@
 <div align="middle">
 
-# Plant Hardiness Zone Map
+<h1>Plant Hardiness Zone Map</h1>
 
 </div>
 
@@ -26,125 +26,128 @@
 
 <div>
 
-## First & Last Frost Date By Growing Zone
+<h2>First & Last Frost Date By Growing Zone</h2>
 
 <table>
-<tbody>
-<tr>
-<th><strong>Zone</strong></th>
-<th><strong>Last Frost Date</strong></th>
-<th><strong>First Frost Date</strong></th>
-</tr>
-<tr></tr>
-<tr>
-<td>1</td>
-<td>May 22 – June 4</td>
-<td>August 25-31</td>
-</tr>
-<tr></tr>
-<tr>
-<td>2</td>
-<td>May 15-22</td>
-<td>September 1-8</td>
-</tr>
-<tr></tr>
-<tr>
-<td>3</td>
-<td>May 1-16</td>
-<td>September 8-15</td>
-</tr>
-<tr></tr>
-<tr>
-<td>4</td>
-<td>April 24 – May 12</td>
-<td>September 21 – October 7</td>
-</tr>
-<tr></tr>
-<tr>
-<td>5</td>
-<td>April 7-30</td>
-<td>October 13 – October 21</td>
-</tr>
-<tr></tr>
-<tr>
-<td>6</td>
-<td>April 1-21</td>
-<td>October 17-31</td>
-</tr>
-<tr></tr>
-<tr>
-<td>7</td>
-<td>March 22 – April 3</td>
-<td>October 29 – November 15</td>
-</tr>
-<tr></tr>
-<tr>
-<td>8</td>
-<td>March 13-28</td>
-<td>November 7-28</td>
-</tr>
-<tr></tr>
-<tr>
-<td>9</td>
-<td>February 6-28</td>
-<td>November 25 – December 13</td>
-</tr>
-<tr></tr>
-<tr>
-<td data-sheets-numberformat="{">10-13</td>
-<td>No freeze</td>
-<td>No freeze</td>
-</tr>
-</tbody>
+    <tbody>
+        <tr>
+            <th><strong>Zone</strong></th>
+            <th><strong>Last Frost Date</strong></th>
+            <th><strong>First Frost Date</strong></th>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>1</td>
+            <td>May 22 – June 4</td>
+            <td>August 25-31</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>2</td>
+            <td>May 15-22</td>
+            <td>September 1-8</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>3</td>
+            <td>May 1-16</td>
+            <td>September 8-15</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>4</td>
+            <td>April 24 – May 12</td>
+            <td>September 21 – October 7</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>5</td>
+            <td>April 7-30</td>
+            <td>October 13 – October 21</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>6</td>
+            <td>April 1-21</td>
+            <td>October 17-31</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>7</td>
+            <td>March 22 – April 3</td>
+            <td>October 29 – November 15</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>8</td>
+            <td>March 13-28</td>
+            <td>November 7-28</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>9</td>
+            <td>February 6-28</td>
+            <td>November 25 – December 13</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td data-sheets-numberformat="{">10-13</td>
+            <td>No freeze</td>
+            <td>No freeze</td>
+        </tr>
+    </tbody>
 </table>
 
-### States in Growing Zone 1
+<h3>States in Growing Zone 1</h3>
 
-Alaska
+<p>Alaska</p>
 
-### States in Growing Zone 2
+<h3>States in Growing Zone 2</h3>
 
-Alaska
+<p>Alaska</p>
 
-### States in Growing Zone 3
+<h3>States in Growing Zone 3</h3>
 
-Alaska, Colorado, Idaho, Maine, Minnesota, Montana, New Hampshire, New York, North Dakota, Vermont, Wisconsin, Wyoming
+<p>Alaska, Colorado, Idaho, Maine, Minnesota, Montana, New Hampshire, New York, North Dakota, Vermont, Wisconsin, Wyoming</p>
 
-### States in Growing Zone 4
+<h3>States in Growing Zone 4</h3>
 
-Alaska, Arizona, Colorado, Idaho, Iowa, Maine,Michigan, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Dakota, Oregon, Utah, Vermont, Washington, Wisconsin, Wyoming
+<p>Alaska, Arizona, Colorado, Idaho, Iowa, Maine,Michigan, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Dakota, Oregon, Utah, Vermont, Washington, Wisconsin, Wyoming</p>
 
-### States in Growing Zone 5
+<h3>States in Growing Zone 5</h3>
 
-Alaska, Arizona, California, Colorado, Connecticut, Rhode Island, Idaho, Illinois, Indiana, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, Ohio, Oregon, Pennsylvania, Tennessee, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
+<p>Alaska, Arizona, California, Colorado, Connecticut, Rhode Island, Idaho, Illinois, Indiana, Iowa, Kansas, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, Ohio, Oregon, Pennsylvania, Tennessee, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming</p>
 
-### States in Growing Zone 6
+<h3>States in Growing Zone 6</h3>
 
-Alaska, Arizona, California, Colorado, Connecticut, Rhode Island, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas, Utah, Virginia, Washington, West Virginia, Wyoming
+<p>Alaska, Arizona, California, Colorado, Connecticut, Rhode Island, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Missouri, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas, Utah, Virginia, Washington, West Virginia, Wyoming</p>
 
-### States in Growing Zone 7
+<h3>States in Growing Zone 7</h3>
 
-Alaska, Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Rhode Island, Delaware, Georgia, Idaho, Illinois, Kansas, Kentucky, Maryland, Massachusetts, Mississippi, Missouri, Nevada, New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon, Pennsylvania, South Carolina, Tennessee, Texas, Utah, Virginia, Washington, West Virginia
+<p>Alaska, Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Rhode Island, Delaware, Georgia, Idaho, Illinois, Kansas, Kentucky, Maryland, Massachusetts, Mississippi, Missouri, Nevada, New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon, Pennsylvania, South Carolina, Tennessee, Texas, Utah, Virginia, Washington, West Virginia</p>
 
-### States in Growing Zone 8
+<h3>States in Growing Zone 8</h3>
 
-Alaska, Alabama, Arizona, Arkansas, California, Florida, Georgia, Louisiana, Maryland, Mississippi, Nevada, New Mexico, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Utah, Virginia, Washington
+<p>Alaska, Alabama, Arizona, Arkansas, California, Florida, Georgia, Louisiana, Maryland, Mississippi, Nevada, New Mexico, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Utah, Virginia, Washington</p>
 
-### States in Growing Zone 9
+<h3>States in Growing Zone 9</h3>
 
-Alabama, Arizona, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, Nevada, New Mexico, Oregon, South Carolina, Texas, Utah, Washington
+<p>Alabama, Arizona, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, Nevada, New Mexico, Oregon, South Carolina, Texas, Utah, Washington</p>
 
-### States in Growing Zone 10
+<h3>States in Growing Zone 10</h3>
 
-Arizona, California, Florida, Hawaii, Louisiana, Nevada, Texas 
+<p>Arizona, California, Florida, Hawaii, Louisiana, Nevada, Texas</p>
 
-### States in Growing Zone 11
+<h3>States in Growing Zone 11</h3>
 
-California, Florida, Hawaii
+<p>California, Florida, Hawaii</p>
 
-### States in Growing Zone 12
-Hawaii
+<h3>States in Growing Zone 12</h3>
 
-### States in Growing Zone 13
-Hawaii
+<p>Hawaii</p>
+
+<h3>States in Growing Zone 13</h3>
+
+<p>Hawaii</p>
+
 </div>

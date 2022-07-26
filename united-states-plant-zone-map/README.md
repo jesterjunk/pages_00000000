@@ -18,13 +18,15 @@
 
 <div align="middle">
 
-<a href="plant-zone-map.jpg" title="plant-zone-map.jpg" target="_blank"><img src="plant-zone-map.jpg" width="831px"></a>
+<a href="plant-zone-map-trans-bg.png" title="plant-zone-map-trans-bg.png" target="_blank"><img src="plant-zone-map-trans-bg.png" width="831px"></a>
 
-<a href="average-annual-extreme-minimum-temperature-1976-2005.png" title="average-annual-extreme-minimum-temperature-1976-2005.png" target="_blank"><img src="average-annual-extreme-minimum-temperature-1976-2005.png" width="476px"></a>
+<a href="average-annual-extreme-minimum-temperature-1976-2005-trans-bg.png" title="average-annual-extreme-minimum-temperature-1976-2005-trans-bg.png" target="_blank"><img src="average-annual-extreme-minimum-temperature-1976-2005-trans-bg.png" width="476px"></a>
 
 </div>
 
 <div>
+
+<a href="usda-logo-trans-bg.png" title="usda-logo-trans-bg.png" target="_blank"><img src="usda-logo-trans-bg.png" width="476px"></a>
 
 <h2>First & Last Frost Date By Growing Zone</h2>
 
